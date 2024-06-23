@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BillduAssignment</string>
+    <string name="billdu">Billdu</string>
+    <string name="search">vyhľadávanie</string>
+    <string name="add_contact">pridať kontakt</string>
+    <string name="first_name">krstné meno</string>
+    <string name="second_name">priezvisko</string>
+    <string name="phone_number">telefónne číslo</string>
+    <string name="is_favorite">je obľúbený</string>
+    <string name="save">uložiť</string>
+    <string name="edit_contact">upraviť kontakt</string>
+    <string name="delete">vymazať</string>
+    <string name="select_language">vybrať jazyk</string>
+    <string name="english">angličtina</string>
+    <string name="slovak">slovenčina</string>
+    <string name="name">meno</string>
+</resources>

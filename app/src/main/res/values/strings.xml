@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BillduAssignment</string>
+    <string name="billdu">Billdu</string>
+    <string name="search">search</string>
+    <string name="add_contact">add contact</string>
+    <string name="first_name">firstname</string>
+    <string name="second_name">secondname</string>
+    <string name="phone_number">phone number</string>
+    <string name="is_favorite">is favorite</string>
+    <string name="save">save</string>
+    <string name="edit_contact">edit contact</string>
+    <string name="delete">delete</string>
+    <string name="select_language">select language</string>
+    <string name="english">english</string>
+    <string name="slovak">slovak</string>
+    <string name="name">name</string>
+</resources>
